@@ -10,8 +10,6 @@ namespace lessons
     {
         static void Main(string[] args)
         {
-           
-          
             
         }
     }

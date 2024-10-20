@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F678CE9-6ADF-4606-BA87-788CDE1FF48F}</ProjectGuid>
+    <ProjectGuid>{5911487D-393D-4B2E-82FE-A65221B0599A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>lessons</RootNamespace>
-    <AssemblyName>lessons</AssemblyName>
+    <RootNamespace>Индексаьторы_и_свойства</RootNamespace>
+    <AssemblyName>Индексаьторы и свойства</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="base.cs" />
-    <Compile Include="peregruzka.cs" />
-    <Compile Include="perme.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="refandout.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
